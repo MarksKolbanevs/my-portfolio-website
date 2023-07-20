@@ -43,9 +43,9 @@ const projectCards:ProjectCardsData = {
 function App() {
   return (
     <div className="App">
-      <section className="hero__section">
+      {/* <section className="hero__section">
         <img src="./assets/3d-text.png"/>
-      </section>
+      </section> */}
       {/* Show on big screen */}
         <section className="personal-info__section big-screen">
           <img className="background-image" src="./assets/info-background.png"/>
